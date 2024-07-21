@@ -1,6 +1,7 @@
 <?php
 $name =  "Shako";
 $age = 47;
-echo $name, $age;
+$lastName = "Kobaladze";
+echo $name, $lastName,  $age;
 ?>
 
