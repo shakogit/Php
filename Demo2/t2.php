@@ -2,6 +2,7 @@
 $name =  "Shako";
 $age = 47;
 $lastName = "Kobaladze";
-echo $name, $lastName,  $age;
+$date = "7/21/2024";
+echo $name, $lastName, $age, $date;
 ?>
 
